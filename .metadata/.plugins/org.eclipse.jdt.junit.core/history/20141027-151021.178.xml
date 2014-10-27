@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TriangleTest" project="Week 5 Triangle Question" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="TriangleTest" time="0.001">
+    <testcase name="testRightAngle" classname="TriangleTest" time="0.001"/>
+    <testcase name="testTypeTriangle" classname="TriangleTest" time="0.0"/>
+  </testsuite>
+</testrun>
